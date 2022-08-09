@@ -1,0 +1,14 @@
+{
+  "name": "front2---password-generator",
+  "version": "1.0.0",
+  "description": "Password Generator - ATO77",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Curcuruto",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.54.3"
+  }
+}
